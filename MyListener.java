@@ -41,7 +41,7 @@ public class MyListener implements KeyListener {
     @Override
     public void keyTyped(KeyEvent e) {}
     public MyListener(){
-        keys = new boolean[2];//alloctate keys
+        keys = new boolean[4];//alloctate keys
 
     }
     public void handleInput(){
